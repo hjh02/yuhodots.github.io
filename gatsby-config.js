@@ -3,8 +3,8 @@ const siteMetadata = {
   description: "Archive of my graduate studies",
   author: "@yuhodots",
   disqusShortname: "yuhodots",
-  url: "https://yuhodots.github.io",
-  siteUrl: "https://yuhodots.github.io"
+  url: "https://hjh02.github.io/yuhodots.github.io",
+  siteUrl: "https://hjh02.github.io/yuhodots.github.io"
 };
 
 module.exports = {
