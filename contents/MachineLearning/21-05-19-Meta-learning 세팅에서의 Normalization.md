@@ -24,7 +24,7 @@ $$
 $$
 
 $$
-\mathbf{\hat x_i}^{(k)} = \frac{\mathbf{x_i}^{(k)}-\mu_{B}^{(k)}}{\sqrt{{\sigma^{(k)}_{B}}^2 + \varepsilon}} \tag{2}
+\mathbf{\hat x_i}^{(k)} = \frac{\mathbf{x_i}^{(k)}-\mu_{B}^{(k)}}{\sqrt{ {\sigma^{(k)}_{B}}^2 + \varepsilon}} \tag{2}
 $$
 
 $$
